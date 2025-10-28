@@ -1,0 +1,16 @@
+{
+  "name": "team-setup-ui",
+  "version": "1.0.0",
+  "title": "Team Setup UI",
+  "description": "Provides admins with a UI to manage teams, assign players, and configure team relationships",
+  "author": "Claude Haiku 4.5",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "package": {
+    "ignore": [
+      "team-setup-ui--*.zip"
+    ]
+  }
+}
